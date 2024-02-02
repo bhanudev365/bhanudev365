@@ -1,3 +1,9 @@
+<p align="center">
+                <img
+                src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat"
+                alt="Bhanu Partap"/>
+        </p>
+
 ### Hi there, I'm Bhanu 👋
 
 - 🔭 I specialize in both Frontend and Backend Development, backed by a strong foundation in system design.
