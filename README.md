@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Bhanu 👋
 
-<!--
-**bhanudev365/bhanudev365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I specialize in both Frontend and Backend Development, backed by a strong foundation in system design.
+- 🔭 Currently freelancing and passionately working on diverse projects.
+- 🌱 I’m currently diving into the world of Blockchain.
+- 👯 I’m open to collaboration.
+- 💬 Ask me anything about kickstarting a business using Websites/Apps!
 
-Here are some ideas to get you started:
+## 📫 How to reach me 
+- [LinkedIn](https://www.linkedin.com/in/iambanu/)
+- [Email](mailto:bhanudev365@gmail.com)
+- [Instagram](https://www.instagram.com/_iambhanu_/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect and let's create something amazing together! 💻✨
